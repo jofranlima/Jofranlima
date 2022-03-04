@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jofranlima
 - 👀 I’m interested in QA
-- 🌱 I’m currently learning 🪄 JavaScript, 🖥️ Front-end,🔧 Back-end, 🧰 Cypress, Robot
+- 🌱 I’m currently learning 🪄 Cypress, Robot, JavaScript, Python, HTML, 🖥️ Front-end,🔧 Back-end, 🧰 
 - 🌅 Like to travel and explore the world
 - 🎸 Rock N'Rolllllllllll and books
 
