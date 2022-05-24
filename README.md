@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jofranlima
 - 👀 I’m interested in QA
-- 🌱 I’m currently job with 🪄 Cypress, Robot, JavaScript, Python, HTML, 🖥️ Front-end,🔧 Back-end, 🧰 
+- 🌱 I’m currently job with 🪄 Cypress, Robot, JavaScript, Python, HTML, Flutter, Dart, 🖥️ Front-end, 
 - 🌅 Like to travel and explore the world
 - 🎸 Rock N'Rolllllllllll and books
 
